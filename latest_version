@@ -1,7 +1,7 @@
 {
 	"versionCode":20,
 	"versionName":"1.9",
-	"apkName":"kanimeG1.8.2.apk",
+	"apkName":"kanimeG1.9.apk",
 	"apkUrl":"https://opentext.oss-cn-shenzhen.aliyuncs.com/apk/kanimeG1.8.2.apk",
 	"apkSize":17332485,
 	"updatedContentEn":"1. Add download list management page in the drawer layout, and the images support breakpoint download.\n2. Add Pixiv Gif download tool page in the drawer layout.\n3. Now you can click tag to search or copy to clipboard in Detail Page.\n4. Add search history.\n5. Add built-in browser connection link.\n6. Fix the display error of Gelbooru pools.\n7. Fix some other known issues.",
