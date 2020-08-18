@@ -111,17 +111,6 @@ background: #00222d;
       preview.src = e.srcElement.src;
     }
   });
-  
-  preview.style.width = '90%';
-  preview.style.margin = 'auto';
-  
-  previewMask.style.position = 'fixed';
-  previewMask.style.display = 'none';
-  previewMask.style.height = '100vh';
-  previewMask.appendChild(preview);
-  previewMask.addEventListener('click', function(){
-    previewMask.style.display = 'none';
-  });
   loading.style.display = 'inline-block';
   loading.style.width = '10px';
   loading.style.height = '10px';
