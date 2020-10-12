@@ -1,0 +1,33 @@
+[
+  {
+    "title":"GL",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Portal",
+        "provider":"webview",
+        "arguments":[
+          "https://gachalife.online/"
+        ]
+      }
+    ]
+  }
+  },
+  {
+    "title":"Wall",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"W",
+        "provider":"rss",
+        "arguments":[
+          "https://glc-test.blogspot.com/feeds/posts/default"
+        ]
+      }
+    ]
+  }
+]
