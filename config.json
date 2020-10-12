@@ -1,6 +1,6 @@
 [
   {
-    "title":"GL",
+    "title":"Portal GL",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "title":"Wall",
+    "title":"Wallpapers",
     "drawable":"",
     "submenu":"",
     "iap":false,
