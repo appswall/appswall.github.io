@@ -6,10 +6,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"W",
-        "provider":"rss",
+        "title":"Portal",
+        "provider":"webview",
         "arguments":[
-          "https://glc-test.blogspot.com/feeds/posts/default"
+          "https://gachalife.online/"
         ]
       }
     ]
