@@ -1,20 +1,5 @@
 [
   {
-    "title":"Portal GL",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Portal",
-        "provider":"webview",
-        "arguments":[
-          "https://gachalife.online/"
-        ]
-      }
-    ]
-  },
-  {
     "title":"Wallpapers",
     "drawable":"",
     "submenu":"",
